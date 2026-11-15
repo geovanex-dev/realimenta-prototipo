@@ -154,4 +154,4 @@ Páginas: dashboard, solicitações, entregas e histórico.
 ## 👨‍💻 Autor
 
 **Geovane**  
-UC Inovação Sustentabilidade e Competitividade Empreserial - USJT Mooca
+UC Inovação, Sustentabilidade e Competitividade Empreserial - USJT Mooca
